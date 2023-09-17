@@ -19,7 +19,7 @@ export const App = () => {
     >
       <h1> Phone book </h1>
       <Form />
-      <p>Find contacts by name</p>
+      <p>Search contacts by name</p>
       <SearchInput />
       <h2>Contacts</h2>
 
