@@ -38,7 +38,7 @@ const ContactList = () => {
   }
 
   if (filter && visibleContacts.length === 0) {
-    return <h2>We didn't find any contacts by your search</h2>;
+    return <h2>We didn't find any contacts according your search</h2>;
   }
 
   if (contacts.length > 0) {
